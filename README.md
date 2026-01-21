@@ -17,8 +17,8 @@ This is the Page Where You Can Browse the Products which in various categories
 This is the page in which all items added to cart is displayed
 <img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/e7061c65-af38-4c20-bdc0-ba1125e2c17e" />
 ## How to run Locally 
-1) Clone Using git clone <git-url>
-2) Go the Cloned folder using cd <folder-name>
-3) Do install all dependencies using npm install
-4) To run Live Project Run npm run dev
+- Clone Using git clone <git-url>
+- Go the Cloned folder using cd <folder-name>
+- Do install all dependencies using npm install
+- To run Live Project Run npm run dev
 ## We feel free to check any change Happy Coding 😁
